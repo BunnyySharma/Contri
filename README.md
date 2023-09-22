@@ -1,16 +1,22 @@
 # Contri
 
-A new Flutter project.
+An Application that makes it easier to split bills among  friends.
 
-## Getting Started
+## Features
+* Users can login using their Mail IDs.
+* After Signing in Users can either create new groups or join already existing groups using Group IDs.
+* After jooining groups Users can start by adding Expenses.
+* The Application will show a detailed history of Expenses.
+* The Application will also show the Simplified Contribution to be given by the users, reducing the hastle to calculate Contris.
+* After Paying, the User can also Record the Payment of said Contri.  
+## Usage
 
-This project is a starting point for a Flutter application.
+<img src = "https://github.com/BunnyySharma/Contri/assets/126193412/4006353d-c4c7-4b2e-98c6-343c7cc7d6a9" width ="800" >
+<img src = "https://github.com/BunnyySharma/Contri/assets/126193412/83eab455-942b-49c2-a225-20c99f9b366d" width ="800" >
+<img src = "https://github.com/BunnyySharma/Contri/assets/126193412/1cfc3fff-ce6a-47bb-99d3-58e6ec272c6d" width ="800" >
 
-A few resources to get you started if this is your first Flutter project:
+## Softwares Used
+* **Programming Language:** Dart/Flutter
+* **Backend:** Firebase
+* **Database:** Cloud Firestore
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
