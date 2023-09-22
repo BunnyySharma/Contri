@@ -1,4 +1,4 @@
-# fontcontri
+# Contri
 
 A new Flutter project.
 
